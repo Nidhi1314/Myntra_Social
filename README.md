@@ -10,7 +10,7 @@ Myntra Social revolutionizes Fashion Shopping!
 
 ### Demonstration of Prototype
 
-[Watch the Prototype Video](video/https://github.com/Nidhi1314/Myntra_Social/blob/main/video/myntra-social-prototype-demo_jVhNqCkg.mp4)
+[Watch the Prototype Video](https://github.com/Nidhi1314/Myntra_Social/blob/main/video/myntra-social-prototype-demo_jVhNqCkg.mp4)
 
 
 ### Shoppable Posts 🏷️:
