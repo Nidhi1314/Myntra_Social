@@ -9,6 +9,7 @@ Myntra Social revolutionizes Fashion Shopping!
 * Mimics Instagram's interactive experience but with a focus on fashion and shopping
 
 ### Demonstration of Prototype
+[Watch the Prototype Video](https://drive.google.com/drive/folders/135g-E1Zb8JvxIqxpljI4ZvZK1gtaDzjC?usp=sharing)
 
 [![Watch the video](https://raw.githubusercontent.com/Nidhi1314/Myntra_Social/main/images/Screenshot%202025-01-17%20194708.png)](https://raw.githubusercontent.com/Nidhi1314/Myntra_Social/main/video/myntra%20social%20.mp4)
 
