@@ -8,6 +8,11 @@ Myntra Social revolutionizes Fashion Shopping!
 * A new section within the Myntra app integrating social media functionalities with shoppable content.
 * Mimics Instagram's interactive experience but with a focus on fashion and shopping
 
+### Demonstration of Prototype
+
+[Watch the Prototype Video](assets/demo.mp4)
+
+
 ### Shoppable Posts 🏷️:
 * Tagging Myntra products in posts with direct links to product pages.
 * Swipe-up links in stories and clickable hashtags.
